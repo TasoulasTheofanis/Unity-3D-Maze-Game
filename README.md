@@ -1,12 +1,12 @@
 # Unity-3D-Maze-Game
-A simple maze game where the user should find his way out, jump through some cubes, destroy some cubes, find keys and unlock doors.
+## A simple maze game where the user should find his way out, jump through some cubes, destroy some cubes, find keys and unlock doors.
 
 
 The first level is the most exciting one. Apart from the difficulty of finding the right entrance, it also contains the most obstacles. The action starts at the beginning, and things are relaxing on the next levels.
 
 <img src= "https://imgur.com/G6mQXDu.png"/>
 
-The blue bar that moves and must be avoided, the green blocks should be jumped, the keys needs to be gathered and the doors to be unlocked, the red cubes have to be shot. All those feautures are making the game quite enriched. Red cubes can disappear if the user shoots them three times. 
+The blue bar that moves and must be avoided, the green blocks should be jumped, the keys must be gathered and the doors must be unlocked, the red cubes have to be shooted. All those feautures are making the game quite enriched. Red cubes can disappear if the user shoots them three times. 
 
 <img src= "https://i.imgur.com/WExy26t.png"/>
 
